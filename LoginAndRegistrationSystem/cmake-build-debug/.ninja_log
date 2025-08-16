@@ -1,0 +1,4 @@
+# ninja log v6
+1	348	1752668626602450177	build.ninja	184181698b258b76
+5	1088	1752547845834253502	CMakeFiles/LoginAndRegistrationSystem.dir/main.cpp.o	4596e19a0d1b9423
+1088	1278	1752547846917657723	LoginAndRegistrationSystem	ac3fa14b523aa5e5

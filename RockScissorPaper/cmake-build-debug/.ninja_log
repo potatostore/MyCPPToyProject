@@ -1,0 +1,6 @@
+# ninja log v6
+5	377	1752541292342421413	build.ninja	931726b16f7cbdd7
+4	443	1751592727869821318	CMakeFiles/RockScissorPaper.dir/main.cpp.o	d188acebb314d58a
+443	555	1751592728308446259	RockScissorPaper	3f2cb68fd122a286
+4	567	1752541298878992779	CMakeFiles/RockScissorPaper.dir/main.cpp.o	3193dd1fa08167cf
+567	754	1752541299441803254	RockScissorPaper	3f2cb68fd122a286

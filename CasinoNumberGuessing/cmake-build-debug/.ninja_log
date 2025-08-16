@@ -1,0 +1,8 @@
+# ninja log v6
+5	734	1752544607339356735	CMakeFiles/CasinoNumberGuessing.dir/Player.cpp.o	10ddce601a44eec
+695	820	1751941925941541163	CasinoNumberGuessing	fa030a7bab70747b
+4	770	1752544607338920967	CMakeFiles/CasinoNumberGuessing.dir/main.cpp.o	388ac782f5a5f3c1
+2	62	1752544703862711245	build.ninja	a2d7853d845ad78e
+3	70	1752544703862711245	build.ninja	24c71dded0737559
+2	647	1752544703872784888	CMakeFiles/CasinoNumberGuessing.dir/Cassino.cpp.o	c088cae04ec84fc
+647	749	1752544704517254719	CasinoNumberGuessing	96a3a15847630664
